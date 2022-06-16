@@ -1,0 +1,10 @@
+../Drivers/RM3100_driver/Src/rm3100.c:23:14:rm3100_i2c_write	64	static
+../Drivers/RM3100_driver/Src/rm3100.c:35:14:rm3100_i2c_read	32	static
+../Drivers/RM3100_driver/Src/rm3100.c:59:14:mag_enable_interrupts	8	static
+../Drivers/RM3100_driver/Src/rm3100.c:75:14:mag_disable_interrupts	8	static
+../Drivers/RM3100_driver/Src/rm3100.c:89:17:mag_set_power_mode	16	static
+../Drivers/RM3100_driver/Src/rm3100.c:118:14:mag_initialize_sensor	24	static
+../Drivers/RM3100_driver/Src/rm3100.c:163:17:mag_get_power_mode	4	static
+../Drivers/RM3100_driver/Src/rm3100.c:176:16:mag_set_sample_rate	64	static
+../Drivers/RM3100_driver/Src/rm3100.c:222:16:mag_get_sample_rate	4	static
+../Drivers/RM3100_driver/Src/rm3100.c:236:6:mag_get_sample_data	16	static
